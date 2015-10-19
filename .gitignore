@@ -1,7 +1,7 @@
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
+*.[oa]
+*~
+*.class
+*.ps
+core
+*.core
+a.out

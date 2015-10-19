@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-2517df817f38fe3ac3d01d8d17628d53caaa1407.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-8f45324e3ac07bfcb70b624a35c1485652060ab3.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-89a75f33dd6c4dbfcf151062ed8148eb3022df86.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-038549bbb33c11cb1280db65b27d49162ea4cd26.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-c8d936d128a63ea3ea9dc62c89a3f3ecadb630aa.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-3921602c5daab51618a62b24e2ba89b57518daf3.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d061397d19ed1684ea783880bb4074645c8df2cf.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-061500d21370f93d914763194d92b947caa78f62.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-f60c970d33d6120cc6e5849b5b12354fb22db183.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-fec0a51ea3bdfa3fd1abdaff4b928ac482799ea8.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-afa606b6539499d0e816fb08fb7d3a96db487ac2.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-9babfdae24def082b52c752ba5b856633ee9b44d.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-7b8e0bc22135a6547017101b09764addc7c1e177.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-863c160cb491b7b19ade1e1263d07d70ee9175fb.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-c628abe78ff86a053f03f1f7c09a0d2d6279d1d2.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-70376700a004558d2331cccfaadeeccdaa346075.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-008a1af3152078de1313dcbbd37ec93e6c52c6b1.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-4750bcaad9be265695835f4799ff64938f6c143b.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-ff849618838bf346c8081bf17cf69a9996dca58c.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-97e4ffad99153c8a31d0482bee5286e65341acb4.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-4559a002695cc98f560aa8f8a8be9d0d69ad04e9.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-796fd051c2f93c2d4b14ea2d2e9dbf5e77a532df.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-c7eb2c47e1111090f2674800146b597c423b0c43.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-5ff307a0d6d618852ef7288512b1a43174148d21.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-9da60d6d15ca56414001314625035172d5196382.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-978a70ca8405c5278a5a7d5edf413a1a0713270c.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-e43322da64773b6c0a7b66f051af3678f537137d.jar" />
+    </item>
+    <item
+        jar="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/markreffel/Documents/androidWorkspace/CSCI485Project/app/build/intermediates/pre-dexed/debug/classes-98eb3ec50d3c8838d5a4dfad9e6fa6ce694a6da0.jar" />
+    </item>
+
+</items>
